@@ -1,4 +1,4 @@
-# Olá, eu sou o [Mizael]! 👋
+# Olá, eu sou o Mizael Borges! 👋
 
 Sou um **Desenvolvedor Full Stack** focado em construir aplicações web modernas, escaláveis e de alta performance. Minha paixão é transformar problemas complexos em interfaces elegantes e códigos eficientes, utilizando as melhores práticas do mercado.
 
