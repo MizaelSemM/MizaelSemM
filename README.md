@@ -43,6 +43,6 @@ Sou um **Desenvolvedor Full Stack** focado em construir aplicações web moderna
 
 Seja para conversar sobre um projeto, uma oportunidade de trabalho ou apenas trocar ideias sobre tecnologia, sinta-se à vontade para me dar um alô!
 
-* 💼 **LinkedIn:** [/in/seu-perfil](https://www.linkedin.com/in/mizael-borges-453560378/)
-* 📧 **E-mail:** [seu.email@provedor.com](mizaelborges44444@gmail.com)
-* 🌐 **Portfólio:** [seu-portfolio.com](mizaelsemm.github.io/Meu-Portif-lio)
+* 💼 **LinkedIn:** [MizaelSemM](https://www.linkedin.com/in/mizael-borges-453560378/)
+* 📧 **E-mail:** [mizaelborges44444@gmail.com](mizaelborges44444@gmail.com)
+* 🌐 **Portfólio:** [MizaelSemM-Portifolhio](mizaelsemm.github.io/Meu-Portif-lio)
