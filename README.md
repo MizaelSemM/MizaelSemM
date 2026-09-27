@@ -32,16 +32,7 @@ Sou um **Desenvolvedor Full Stack** focado em construir aplicações web moderna
 
 ### 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MizaelSemM&show_icons=true&theme=tokyonight&include_all_commits=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizaelSemM&layout=compact&theme=tokyonight"
-    height="180"
-  />
-</div>
+![Estatísticas do GitHub](./profile/stats.svg)
 
 ---
 
