@@ -32,7 +32,10 @@ Sou um **Desenvolvedor Full Stack** focado em construir aplicações web moderna
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](./profile/stats.svg)
+<div align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</div>
 
 ---
 
