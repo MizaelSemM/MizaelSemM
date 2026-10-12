@@ -26,7 +26,6 @@ Sou um **Desenvolvedor Full Stack** focado em construir aplicações web moderna
 #### No meu radar e ecossistema:
 * Validação de esquemas com **Zod** (integrado ao React Hook Form).
 * Arquitetura de software limpa, APIs RESTful.
-* CI/CD, testes automatizados e deploy em plataformas como Vercel, Railway e Render.
 
 ---
 
